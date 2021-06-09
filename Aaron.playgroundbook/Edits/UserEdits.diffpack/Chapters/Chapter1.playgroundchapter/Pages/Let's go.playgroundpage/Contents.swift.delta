@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>15</string>
+			<key>ModifiedRange</key>
+			<string>{1561, 2}</string>
+			<key>OriginalContent</key>
+			<string>0</string>
+			<key>OriginalRange</key>
+			<string>{1561, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>mov</string>
+			<key>ModifiedRange</key>
+			<string>{2757, 3}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#l</string>
+			<key>OriginalRange</key>
+			<string>{2756, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2761, 0}</string>
+			<key>OriginalContent</key>
+			<string>t </string>
+			<key>OriginalRange</key>
+			<string>{2760, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>()</string>
+			<key>ModifiedRange</key>
+			<string>{2766, 2}</string>
+			<key>OriginalContent</key>
+			<string> move#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{2767, 7}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/Let's go.playgroundpage/Contents.swift</string>
+</dict>
+</plist>
